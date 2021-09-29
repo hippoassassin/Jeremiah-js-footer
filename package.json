@@ -1,0 +1,26 @@
+{
+  "name": "jeremiah-js-footer",
+  "version": "0.1.0",
+  "description": "auto updating footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hippoassassin/Jeremiah-js-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "bottom"
+  ],
+  "author": "Jeremiah Evans <jeremiahevansbro@gmail.com> (https://www.npmjs.com/~orud)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hippoassassin/Jeremiah-js-footer/issues"
+  },
+  "homepage": "https://github.com/hippoassassin/Jeremiah-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
